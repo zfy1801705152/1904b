@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springclouc-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consumer-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-user/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-git/pom.xml" />
+        <option value="$PROJECT_DIR$/../baidu/baidu-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../baidu/baidu-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../baidu/baidu-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../baidu/baidu-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../baidu/baidu-config/pom.xml" />
+        <option value="$PROJECT_DIR$/../jingdong/jd-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../jingdong/jd-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../jingdong/jd-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../jingdong/jd-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../jingdong/jd-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../jingdong/jd-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../tianmao/tm-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../tianmao/tm-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../tianmao/tm-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../tianmao/tm-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../tianmao/tm-config/pom.xml" />
+        <option value="$PROJECT_DIR$/../jingdong/jd-provier/pom.xml" />
+        <option value="$PROJECT_DIR$/../jingdong/jd-config/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

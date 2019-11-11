@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jd-eureka" />
+        <module name="springcloud-service-api" />
+        <module name="springcloud-common" />
+        <module name="springcloud-consumer-feign" />
+        <module name="springcloud-provider-user" />
+        <module name="jd-service-api" />
+        <module name="springcloud-consumer-ribbon" />
+        <module name="tm-provider" />
+        <module name="baidu-common" />
+        <module name="springboot-git" />
+        <module name="jd-consumer" />
+        <module name="baidu-eureka" />
+        <module name="tm-service-api" />
+        <module name="jd-config" />
+        <module name="tm-config" />
+        <module name="baidu-service-api" />
+        <module name="baidu-zuul" />
+        <module name="baidu-consumer" />
+        <module name="jd-zuul" />
+        <module name="jd-provier" />
+        <module name="springcloud-provider" />
+        <module name="baidu-config" />
+        <module name="baidu-provider" />
+        <module name="springcloud-zuul" />
+        <module name="tm-eureka" />
+        <module name="tm-zuul" />
+        <module name="springclouc-eureka" />
+        <module name="jd-common" />
+        <module name="tm-common" />
+        <module name="tm-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jd-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="baidu-config" options="-parameters" />
+      <module name="baidu-consumer" options="-parameters" />
+      <module name="baidu-eureka" options="-parameters" />
+      <module name="baidu-provider" options="-parameters" />
+      <module name="baidu-zuul" options="-parameters" />
+      <module name="jd-config" options="-parameters" />
+      <module name="jd-consumer" options="-parameters" />
+      <module name="jd-eureka" options="-parameters" />
+      <module name="jd-provider" options="-parameters" />
+      <module name="jd-provier" options="-parameters" />
+      <module name="jd-zuul" options="-parameters" />
+      <module name="springboot-git" options="-parameters" />
+      <module name="springclouc-eureka" options="-parameters" />
+      <module name="springcloud-consumer-feign" options="-parameters" />
+      <module name="springcloud-consumer-ribbon" options="-parameters" />
+      <module name="springcloud-provider" options="-parameters" />
+      <module name="springcloud-provider-user" options="-parameters" />
+      <module name="springcloud-zuul" options="-parameters" />
+      <module name="tm-config" options="-parameters" />
+      <module name="tm-consumer" options="-parameters" />
+      <module name="tm-eureka" options="-parameters" />
+      <module name="tm-provider" options="-parameters" />
+      <module name="tm-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
